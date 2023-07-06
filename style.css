@@ -5,12 +5,12 @@
 
 .menu-container {
     background-color: rgb(32, 32, 32);
-    padding: 20px;
+    padding: 10px 80px;
     color: white;
     list-style: none;
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
 .menus {
